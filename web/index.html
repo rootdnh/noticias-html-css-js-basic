@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Responsive layout</title>
+</head>
+<body onload="getNews()">
+    <!-- Cabeçalho da aplicação -->
+    <header class="menu">
+        <a  class="logo" href="#">LOGO</a>
+        
+        <nav id="nav">
+            <button id="btn-mobile">
+                <span id="hamburger"></span>
+            </button>
+            <ul id="links-menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+            <li><div class="search-box">
+                <a href="#">
+                 <input type="text" placeholder="pesquisar...">
+                 <img id="lupa" src="./lupa.png" alt="Lupa" width="25px" height="25px">
+                </a>
+            </div></li>
+        </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main id="content">
+        
+    </main>
+
+    <!-- Seção do rodapé -->
+    <footer>
+        <p>FOOTER</p>
+    </footer>
+
+
+    <!-- Código JS para lógica -->
+    <script src="./logic.js"></script>
+</body>
+</html>
