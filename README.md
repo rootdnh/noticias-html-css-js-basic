@@ -8,6 +8,6 @@
 
 ## Scripts
 
-No diretório /src você pode rodar node server.js, ou nodemon server.js
+No diretório /src você pode rodar node server.js, ou nodemon server.js.
 
-Para o frontend apenas abrir o index.html
+Para o frontend apenas abrir o index.html.
