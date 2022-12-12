@@ -5,6 +5,7 @@
  * JAVASCRIPT
  * NODEJS
  * SEQUELIZE
+ 
 
 ## Scripts
 
