@@ -6,7 +6,6 @@
  * NODEJS
  * SEQUELIZE
  
-
 ## Scripts
 
 No diretório /src você pode rodar node server.js, ou nodemon server.js.
