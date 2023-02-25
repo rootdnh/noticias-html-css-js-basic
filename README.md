@@ -1,4 +1,4 @@
-## Uma simples aplicação para mostrar o consumo a API
+## Uma simples aplicação para mostrar o consumo a API.
 
  * HTML
  * CSS
